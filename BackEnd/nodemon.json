@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "jeanAdmin",
+        "DB_PASS": "45Yxm5X1PDqiezhk",
+        "DB_NAME": "MERN_Course",
+        "GOOGLE_API_KEY": "AIzaSyCcwZ4lGxGvaUpENhjbgHoT0EODFV4yot8",
+        "JWT_KEY": "payl0ad_key"
+    }
+}
